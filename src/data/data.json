@@ -1,0 +1,201 @@
+{
+  "Header": {
+    "title": "We are a Web Development Organisation",
+    "paragraph": " Helping Businesses Grow Digitally with our Web Designing Digital Marketing Graphic Designing Video Animations Services"
+  },
+  
+    "About": {
+      "paragraph": "Creative Monk is a leading web designing company in Chandigarh, India. The sites we create are spotless and new, each extraordinarily structured. Besides, we guarantee every website of ours fulfil the openness guidelines requested by the World Wide Web Consortium. Our sites are tested in the most generally used browsers at various screen goals. We provide the best web design services at an affordable price.",
+      "Why": [
+        "We design websites that are uniquely structured and aesthetically clean.",
+        "Our websites meet the accessibility guidelines set by the World Wide Web Consortium.",
+        "We test our websites across popular browsers and multiple screen resolutions.",
+        "We offer high-quality web design services at competitive and affordable prices."
+      ],
+      "Why2": [
+        "We prioritize user experience and ensure every site is easy to navigate.",
+        "We create responsive designs that work seamlessly on all devices.",
+        "Our websites are optimized for performance and fast loading times.",
+        "We offer ongoing support and maintenance for our clients."
+      ]
+    },
+  
+  "Gallery": [
+    {
+      "title": "Fabie",
+      "largeImage": "https://thecreativemonk.in/wp-content/uploads/2024/04/logo-febie-qeijzc1fy0ird5ogqh64ngxrlf15g42w87gore8qy6-1.png",
+      "smallImage": "https://thecreativemonk.in/wp-content/uploads/2024/04/logo-febie-qeijzc1fy0ird5ogqh64ngxrlf15g42w87gore8qy6-1.png"
+    },
+    {
+      "title": "Ryan Media",
+      "largeImage": "https://thecreativemonk.in/wp-content/uploads/2021/11/ryan-media-logo-1-1-1024x738-1-300x216.png",
+      "smallImage": "https://thecreativemonk.in/wp-content/uploads/2021/11/ryan-media-logo-1-1-1024x738-1-300x216.png"
+    },
+    {
+      "title": "Rahul Razni",
+      "largeImage": "https://thecreativemonk.in/wp-content/uploads/2021/11/logo.png",
+      "smallImage": "https://thecreativemonk.in/wp-content/uploads/2021/11/logo.png"
+    },
+    {
+      "title": "Daah Films",
+      "largeImage": "https://thecreativemonk.in/wp-content/uploads/2021/11/Untitled-2-1.png",
+      "smallImage": "https://thecreativemonk.in/wp-content/uploads/2021/11/Untitled-2-1.png"
+    },
+    {
+      "title": "Tailor Pankaj",
+      "largeImage": "https://thecreativemonk.in/wp-content/uploads/2021/11/pankaj-comin-soon-scaled-1-300x162.jpg.webp",
+      "smallImage": "https://thecreativemonk.in/wp-content/uploads/2021/11/pankaj-comin-soon-scaled-1-300x162.jpg.webp"
+    },
+    {
+      "title": "Magan",
+      "largeImage": "https://thecreativemonk.in/wp-content/uploads/2021/11/pankaj-jali-1-768x138.jpg.webp",
+      "smallImage": "https://thecreativemonk.in/wp-content/uploads/2021/11/pankaj-jali-1-768x138.jpg.webp"
+    },
+    {
+      "title": "Nightangle",
+      "largeImage": "https://thecreativemonk.in/wp-content/uploads/2021/11/nightingale-1-1024x584__20.png.webp",
+      "smallImage": "https://thecreativemonk.in/wp-content/uploads/2021/11/nightingale-1-1024x584__20.png.webp"
+    },
+    {
+      "title": "Binny Kitchen",
+      "largeImage": "https://thecreativemonk.in/wp-content/uploads/2021/11/binny-kitchen.png",
+      "smallImage": "https://thecreativemonk.in/wp-content/uploads/2021/11/binny-kitchen.png"
+    },
+    {
+      "title": "Cheers",
+      "largeImage": "https://thecreativemonk.in/wp-content/uploads/2021/11/3-Cheers-WB-png-1-e1624317167820-768x309__12.png.webp",
+      "smallImage": "https://thecreativemonk.in/wp-content/uploads/2021/11/3-Cheers-WB-png-1-e1624317167820-768x309__12.png.webp"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-code",
+      "name": "Web Development",
+      "text": "We offer a wide range of Web Development services in Chandigarh, India, with a focus on creating user-friendly and high-quality websites. We are here to turn your vision into reality."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "name": "Digital Marketing",
+      "text": "Our Digital Marketing services help your business grow and reach the right audience through online channels like social media, SEO, and paid ads. We bring the best strategies to drive traffic and sales."
+    },
+    {
+      "icon": "fa fa-paint-brush",
+      "name": "Graphic Designing",
+      "text": "Our Graphic Designing services include creative designs for logos, brochures, banners, and more. We make your brand stand out with unique and visually appealing designs."
+    },
+    {
+      "icon": "fa fa-wordpress",
+      "name": "WordPress Development",
+      "text": "The Creative Monk provides the best WordPress development services in Chandigarh, India. We specialize in creating high-quality and user-friendly WordPress websites, turning your vision into a reality."
+    },
+    {
+      "icon": "fa fa-shopping-cart",
+      "name": "Ecommerce Web Development",
+      "text": "E-commerce has completely transformed online shopping. The Creative Monk offers the best eCommerce web development services, providing businesses with efficient and scalable online stores."
+    },
+    {
+      "icon": "fa fa-globe",
+      "name": "Static Website",
+      "text": "If you're looking for an affordable option for your business website, our Static Website design services in Chandigarh are perfect for small or individual businesses looking to establish an online presence."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "name": "Dynamic Website",
+      "text": "Dynamic websites change content based on various factors like user preferences or time. Creative Monk is a leading dynamic web design company in Chandigarh, specializing in creating websites that offer personalized user experiences."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Landing Page",
+      "text": "We provide top-tier landing page design services in Chandigarh, India. A well-designed landing page makes lead generation quick and efficient, helping businesses convert visitors into customers."
+    },
+    {
+      "icon": "fa-brands fa-shopify",
+      "name": "Shopify",
+      "text": "We offer Shopify development services to help businesses create powerful, user-friendly eCommerce stores. Our expertise in Shopify ensures a seamless shopping experience for customers."
+    }
+],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+"Contact": {
+  "address": "Office No.11-12, 9th floor, Sushma Infinium, Zirakpur, Punjab, 140603",
+  "phone": "+91-9463445566",
+  "email": "info@thecreativemonk.in",
+  "facebook": "",
+  "twitter": "",
+  "youtube": ""
+},
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
